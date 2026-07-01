@@ -1,0 +1,5 @@
+Find NOT NULL Values
+
+SELECT *
+FROM employees
+WHERE email IS NOT NULL;

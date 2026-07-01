@@ -1,0 +1,6 @@
+Find Top 5 Highest Salaries
+
+SELECT DISTINCT salary
+FROM employees
+ORDER BY salary DESC
+LIMIT 5;

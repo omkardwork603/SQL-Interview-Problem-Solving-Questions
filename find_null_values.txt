@@ -1,0 +1,4 @@
+Find NULL Values
+
+SELECT * FROM employees
+WHERE email IS NULL;
